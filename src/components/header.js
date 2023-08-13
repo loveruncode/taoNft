@@ -4,11 +4,11 @@ export default function header() {
   return (
     <div>
         <ul>
-            <li> NFT marrket</li>
+            <li>  Market NFT</li>
             <li> About us</li>
-            <li> my team</li>
+            <li> Team</li>
         </ul>
-        <button> Connect Wallet</button> <br></br>
+        <button> Connect Wallet</button> 
         <button>Create NFT</button>
     </div>
   )
