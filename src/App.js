@@ -1,11 +1,12 @@
-import Headers from './components/header'
-
+import CreateNFT from "./components/createNFT";
+import Headers from "./components/header";
 
 function App() {
   return (
     <div>
-      <h1>APC Website</h1>
-      <Headers/>
+      <Headers />
+
+      <CreateNFT />
     </div>
   );
 }
